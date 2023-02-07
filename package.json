@@ -1,0 +1,20 @@
+{
+  "name": "javascript1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bestEgg.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "jest"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stream-json": "^1.7.5"
+  },
+  "devDependencies": {
+    "jest": "^29.4.2",
+    "streamtest": "^2.0.0"
+  }
+}
