@@ -4,10 +4,9 @@
   "description": "",
   "main": "bestEgg.js",
   "scripts": {
-    "run": "node index.js",
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
-  "type": "module",
   "author": "",
   "license": "ISC",
   "dependencies": {

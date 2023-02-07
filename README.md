@@ -15,7 +15,7 @@ npm install
 ## Start
 
 ```
-npm run 
+npm start
 ```
 
 ### Write up
