@@ -1,10 +1,10 @@
-# read-and-filter-json
+# read-and-filter-json :sparkles:
 
 A library to to parse out specific JSON objects of a larger JSON array based on a provided set of criteria. This makes it easier to filter out json objects on any given JSON array. 
 
 * [Installation](#installation)
 
-## Installation
+## Installation 
 
 Install via npm
 
